@@ -1,4 +1,4 @@
-<p align="center">🚀 <strong>Automation Line</strong></p>
+<h1 align="center">🚀 <strong>Automation Line</strong></h1>
 <p align="center">Intelligent solutions for your business workflow</p>
 
 <p align="center">

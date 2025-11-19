@@ -1,6 +1,6 @@
 A short and impactful tagline describing what this project does.
 
-<p align="center"> <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/3078f4a8-c38d-4cc2-aaae-f402b75885c8" /> </p>
+<p align="center"> <img width="1024" height="304" alt="Image" src="https://github.com/user-attachments/assets/ed962fed-00f3-421b-af48-ce533dbb4a3d" /> </p>
 
 🚀 Features
 

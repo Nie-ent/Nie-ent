@@ -1,16 +1,42 @@
-<p align="center"> <img width="1024" height="304" alt="Image" src="https://github.com/user-attachments/assets/ed962fed-00f3-421b-af48-ce533dbb4a3d" /> </p>
+<p align="center">🚀 Automation Line</p>
+<p align="center"> Intelligent solutions for your business workflow </p> <p align="center"> <img width="1024" height="304" src="https://github.com/user-attachments/assets/ed962fed-00f3-421b-af48-ce533dbb4a3d" /> </p>
 
-🚀 Features
+<p align="center">🚀 Automation Line</p>
+<p align="center"> Intelligent solutions for your business workflow </p> <p align="center"> <img width="1024" height="304" src="https://github.com/user-attachments/assets/ed962fed-00f3-421b-af48-ce533dbb4a3d" /> </p>
+✨ Core Features
+🤖 AI Chatbot with Booking
 
-⚡ Fast and lightweight
+Smart LINE chatbot with built-in scheduling, natural language processing, and customizable business rules.
 
-🎯 Easy to integrate
+📝 Drag & Drop Todo Board
 
-📦 Clean & scalable architecture
+Interactive Kanban-style task board with smooth drag-and-drop and real-time reordering.
 
-🧩 Built with best practices
+📊 CRM Project
 
-🛠️ Developer-friendly setup
+Lightweight CRM system for customer tracking, activity logs, and business insights.
 
-📸 Preview
-<p align="center"> <img src="https://github.com/user-attachments/assets/your-demo-gif" width="700px" /> </p>
+🛠️ Tech Stack
+Technology	Description
+HTML5	Semantic and accessible UI structure
+CSS3	Base styling and layout control
+JavaScript (ES6+)	Core browser logic
+TypeScript	Type-safe development for maintainability
+React.js	Component-driven UI building
+Next.js	Full-stack React framework with SSR & API routes
+TailwindCSS	Utility-first styling for rapid UI development
+Zustand	Lightweight global state store
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to open a PR to improve the project.
+
+⭐ Support
+
+If you find this project useful, please consider starring the repo.
+It helps increase visibility and motivates continued development!
+
+📄 License
+
+Released under the MIT License.

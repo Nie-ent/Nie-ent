@@ -1,8 +1,5 @@
 <p align="center">🚀 Automation Line</p>
 <p align="center"> Intelligent solutions for your business workflow </p> <p align="center"> <img width="1024" height="304" src="https://github.com/user-attachments/assets/ed962fed-00f3-421b-af48-ce533dbb4a3d" /> </p>
-
-<p align="center">🚀 Automation Line</p>
-<p align="center"> Intelligent solutions for your business workflow </p> <p align="center"> <img width="1024" height="304" src="https://github.com/user-attachments/assets/ed962fed-00f3-421b-af48-ce533dbb4a3d" /> </p>
 ✨ Core Features
 🤖 AI Chatbot with Booking
 

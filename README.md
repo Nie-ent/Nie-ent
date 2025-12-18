@@ -1,7 +1,7 @@
-<h1 align="center">🚀 <strong>Automation Line</strong></h1>
 <p align="center">
-  Intelligent automation platform to streamline your business workflow
+  Full-Stack Engineer who designs, architects, and ships real-world automation systems — from AI recruitment to booking platforms.
 </p>
+
 
 <p align="center">
   <img width="1024" height="304" src="https://github.com/user-attachments/assets/ed962fed-00f3-421b-af48-ce533dbb4a3d" />

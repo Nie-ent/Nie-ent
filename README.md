@@ -11,16 +11,47 @@
 
 ## ✨ Key Features
 
-### 🤖 AI Chatbot with Smart Booking
-An intelligent LINE chatbot powered by natural language processing, featuring automated appointment booking, flexible scheduling, and customizable business rules.
+### 🏟️ Sports Automation Booking System
+An end-to-end sports facility booking platform that automates court reservations, time-slot management, and user scheduling.  
+Designed to handle real-time availability, conflict prevention, and scalable booking workflows.
 
-### 📝 Drag & Drop Task Board
-A modern Kanban-style task management board with smooth drag-and-drop interactions and real-time task reordering.
-
-### 📊 CRM & Project Management
-A lightweight CRM system designed for customer management, project tracking, activity logs, and actionable business insights.
+**Highlights**
+- Real-time booking & availability management  
+- Automated schedule conflict resolution  
+- Admin dashboard for facility and time-slot control  
 
 ---
+
+### 🤖 AI Resume Analysis for Recruiters
+An AI-powered recruitment system that analyzes resumes using natural language processing to extract skills, experience, and job relevance.  
+Built to help recruiters screen candidates faster and make data-driven hiring decisions.
+
+**Highlights**
+- AI-based resume parsing & skill extraction  
+- Candidate-job matching and scoring  
+- Recruiter-friendly dashboard with insights  
+
+---
+
+### 🍽️ Restaurant Management System
+A comprehensive restaurant management platform covering order processing, table management, customer data, and operational workflows.  
+Engineered for efficiency, scalability, and real-time operations.
+
+**Highlights**
+- Order & table management system  
+- Customer and sales tracking  
+- Real-time updates across staff roles  
+
+---
+
+### 🧠 System Architecture & Full-Stack Engineering
+All projects were **designed, engineered, and implemented end-to-end** in a full-stack role, covering:
+
+- System architecture & database design  
+- Backend API & business logic development  
+- Frontend application & user experience  
+- Authentication, security, and performance optimization  
+
 
 ## 🛠️ Tech Stack
 

@@ -1,5 +1,7 @@
 <h1 align="center">🚀 <strong>Automation Line</strong></h1>
-<p align="center">Intelligent solutions for your business workflow</p>
+<p align="center">
+  Intelligent automation platform to streamline your business workflow
+</p>
 
 <p align="center">
   <img width="1024" height="304" src="https://github.com/user-attachments/assets/ed962fed-00f3-421b-af48-ce533dbb4a3d" />
@@ -7,45 +9,55 @@
 
 ---
 
-## ✨ Core Features
+## ✨ Key Features
 
-### 🤖 AI Chatbot with Booking
-Smart LINE chatbot with built-in scheduling, natural language processing, and customizable business rules.
+### 🤖 AI Chatbot with Smart Booking
+An intelligent LINE chatbot powered by natural language processing, featuring automated appointment booking, flexible scheduling, and customizable business rules.
 
-### 📝 Drag & Drop Todo Board
-Interactive Kanban-style task board with smooth drag-and-drop and real-time reordering.
+### 📝 Drag & Drop Task Board
+A modern Kanban-style task management board with smooth drag-and-drop interactions and real-time task reordering.
 
-### 📊 CRM Project
-Lightweight CRM system for customer tracking, activity logs, and business insights.
+### 📊 CRM & Project Management
+A lightweight CRM system designed for customer management, project tracking, activity logs, and actionable business insights.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology | Description |
-|-----------|-------------|
-| **HTML5** | Semantic and accessible UI structure |
-| **CSS3** | Base styling and layout control |
-| **JavaScript (ES6+)** | Core browser logic |
-| **TypeScript** | Type-safe development for maintainability |
-| **React.js** | Component-driven UI building |
-| **Next.js** | Full-stack React framework with SSR & API routes |
-| **TailwindCSS** | Utility-first styling for rapid UI development |
-| **Zustand** | Lightweight global state store |
+| Technology | Purpose |
+|-----------|--------|
+| **HTML5** | Semantic and accessible markup |
+| **CSS3** | Core styling and layout |
+| **JavaScript (ES6+)** | Client-side logic |
+| **TypeScript** | Type-safe and scalable development |
+| **React.js** | Component-based UI architecture |
+| **Next.js** | Full-stack framework with SSR & API routes |
+| **Tailwind CSS** | Utility-first styling for rapid UI development |
+| **Zustand** | Lightweight global state management |
+| **JWT** | Authentication and authorization |
+| **Express.js** | Backend API framework |
+| **Prisma** | Type-safe ORM |
+| **MySQL** | Relational database |
+| **Zod** | Schema validation |
+| **Cloudinary** | Media storage and optimization |
+| **Nodemailer** | Email service integration |
+| **WebSocket** | Real-time communication |
+| **Argon2 / Bcrypt** | Secure password hashing |
+| **Postman** | API testing and development |
 
 ---
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!  
-Feel free to open a PR to improve the project.
+Contributions, issues, and feature requests are welcome.  
+Feel free to open an issue or submit a pull request to help improve the project.
 
 ---
 
 ## ⭐ Support
-If you find this project useful, please consider **starring the repo**.  
-It helps increase visibility and motivates continued development!
+If you find this project helpful, please consider giving it a ⭐️  
+Your support helps increase visibility and motivates continued development.
 
 ---
 
 ## 📄 License
-Released under the **MIT License**.
+This project is released under the **MIT License**.
